@@ -25,10 +25,10 @@
       "id": 4
     },
     {
-      "text": "New Task",
-      "day": "Oct 27th @ 1 PM",
+      "text": "This is a test",
+      "day": "22",
       "reminder": true,
-      "id": 5
+      "id": 6
     }
   ]
 }
